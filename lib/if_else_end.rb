@@ -1,1 +1,4 @@
-# Write your solution here
+if current_time second = Even
+  puts "Even!"
+
+end

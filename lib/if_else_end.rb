@@ -1,4 +1,4 @@
-if current_time second = Even
+if true
   puts "Even!"
 
 end

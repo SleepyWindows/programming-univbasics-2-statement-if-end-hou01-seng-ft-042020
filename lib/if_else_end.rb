@@ -1,4 +1,6 @@
-if Time.now.to_i.Even
+current_time = Time.now.to_i
+
+if current_time.even
   puts "Even!"
 else
   puts "Odd!"
